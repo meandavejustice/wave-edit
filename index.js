@@ -1,1 +1,1 @@
-module.exports = require('lib/wave-edit');
+module.exports = require('./lib/wave-edit');
