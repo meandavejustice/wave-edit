@@ -25,5 +25,28 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "meandave",
-  "license": "MIT"
+  "license": "MIT",
+  "directories": {
+    "example": "example"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/meandavejustice/wave-edit.git"
+  },
+  "bugs": {
+    "url": "https://github.com/meandavejustice/wave-edit/issues"
+  },
+  "homepage": "https://github.com/meandavejustice/wave-edit#readme",
+  "keywords": [
+    "audio",
+    "wave",
+    "ui",
+    "edit",
+    "editing",
+    "interactive",
+    "web",
+    "audio",
+    "webaudio",
+    "music"
+  ]
 }
